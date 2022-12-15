@@ -1,2 +1,11 @@
 Name: Items
 Type: FolderType
+Children:
+- Name: Variable1
+  Type: ObjectLibraryItem
+  Children:
+  - Name: Variable1
+    Id: g=e19860b50e988b142727c2b2ab9181cf
+    Supertype: BaseDataVariableType
+    DataType: Int32
+    Value: 0
